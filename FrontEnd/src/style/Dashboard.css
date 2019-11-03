@@ -1,0 +1,45 @@
+.spinner-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 0px
+}
+h1{
+    padding:15px 0px 0px 0px;
+}
+.stats{
+    margin-top:30px;
+}
+.avatar-img{
+    border:solid green;
+    margin:50px 0px 0px 0px;
+}
+
+.spinner-wrapper img {
+    width: 80px;
+}
+.dasboard-content-wrapper{
+    width: 100%;
+    height: 75vh;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin-top:150px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+/* #tab-bar .demo {
+    display: flex;
+    flex-direction: column;
+}
+
+#tab-bar .demoName {
+    height: 40px;
+}
+
+#tab-bar .demo-preview-item .am-tab-bar {
+    background-color: white;
+} */

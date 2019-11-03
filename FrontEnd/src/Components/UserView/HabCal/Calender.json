@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "habit": "Do Psychology Homework"
+    },
+    {
+        "id":"2",
+        "habit": "Hit the gym"
+    },
+    {
+        "id":"3",
+        "habit": "Take a shower"
+    },
+    {
+        "id":"4",
+        "habit": "Study for Calculus Exam"
+    }
+]

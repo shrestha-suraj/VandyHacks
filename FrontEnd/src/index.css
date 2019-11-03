@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,500,700,900');
+@import '~antd/dist/antd.css';
+
+body {
+  font-family: 'Raleway', sans-serif !important;
+  margin: 0;
+  padding: 0;
+}
+
+button, input {
+  font-family: 'Raleway', sans-serif !important;
+}
+
+/* Ant Drawer Global Change */
+
+.ant-drawer-wrapper-body {
+  background-color: #fafafa;
+}
+
+.ant-drawer-right.ant-drawer-open .ant-drawer-content-wrapper {
+  box-shadow: -2px 0 16px rgba(0, 0, 0, 0.35);
+}
